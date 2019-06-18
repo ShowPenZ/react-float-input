@@ -1,6 +1,6 @@
 {
   "name": "react-float-input",
-  "version": "3.0.0",
+  "version": "1.0.0",
   "description": "float input for React",
   "main": "dist/FloatInput.min.js",
   "scripts": {
